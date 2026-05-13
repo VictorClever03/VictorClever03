@@ -19,20 +19,19 @@
 <table align="center">
   <tr>
     <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=VictorClever03&show_icons=true&count_private=true&hide_border=true&title_color=fc8e28&icon_color=fc8e28&text_color=c9d1d9&bg_color=0d1117" 
-        alt="GitHub stats" 
+      <img
+        height="180em"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=VictorClever03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
       />
     </td>
     <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorClever03&layout=compact&hide_border=true&title_color=fc8e28&text_color=c9d1d9&bg_color=0d1117" 
-        alt="Top languages" 
+      <img
+        height="180em"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VictorClever03&layout=compact&theme=tokyonight&hide_border=true"
       />
     </td>
   </tr>
 </table>
-
 ## 🚀 My Skills
 
 
