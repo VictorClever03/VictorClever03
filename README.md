@@ -30,6 +30,9 @@
         src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VictorClever03&layout=compact&theme=tokyonight&hide_border=true"
       />
     </td>
+    <td>
+      [![vnanga's 42 stats](https://badge.mediaplus.ma/honeytones/vnanga)](https://github.com/oakoudad/badge42)
+    </td>
   </tr>
 </table>
 
