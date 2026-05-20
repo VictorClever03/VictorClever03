@@ -31,7 +31,9 @@
       />
     </td>
     <td>
-      [![vnanga's 42 stats](https://badge.mediaplus.ma/honeytones/vnanga)](https://github.com/oakoudad/badge42)
+      <img
+        height="180em"
+        src="https://badge.mediaplus.ma/honeytones/vnanga">
     </td>
   </tr>
 </table>
