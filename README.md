@@ -6,7 +6,7 @@
   <img src="./banner.jpg" alt="Victor Nanga Banner" width="100%" />
 </div>
 
-## 👨🏻‍💻 &nbsp;Sobre mim
+### 👨🏻‍💻 Sobre mim
 - 🎓 Cadete na 42 Luanda, focado em engenharia de software e programação de baixo nível (C/C++).
 - 💻 Desenvolvedor fullstack em evolução, construindo base sólida em sistemas e desenvolvimento de software.
 - 🚀 Movido por curiosidade, disciplina e aprendizagem constante.
@@ -38,10 +38,10 @@
   </tr>
 </table>
 
-## 🚀 My Skills
+### 🚀 My Skills
 
 
-### 🎨 Frontend
+<strong>🎨 Frontend:</strong> <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-1e1e1e?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-1e1e1e?style=for-the-badge&logo=next.js&logoColor=white)
@@ -50,9 +50,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-1e1e1e?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1e1e1e?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-
-
-### ⚙️ Backend
+<strong>⚙️ Backend: </strong><br>
 ![Node.js](https://img.shields.io/badge/Node.js-1e1e1e?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-1e1e1e?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-1e1e1e?style=for-the-badge&logo=laravel&logoColor=FF2D20)
@@ -60,9 +58,7 @@
 ![C](https://img.shields.io/badge/C-1e1e1e?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-1e1e1e?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 
-
-
-### 🧠 Other Knowledge
+<strong>🧠 Other Knowledge:</strong><br>
 ![MySQL](https://img.shields.io/badge/MySQL-1e1e1e?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e1e?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![REST API](https://img.shields.io/badge/REST_API-1e1e1e?style=for-the-badge&logo=fastapi&logoColor=009688)
@@ -70,7 +66,7 @@
 ![Linux](https://img.shields.io/badge/Linux-1e1e1e?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 
-## 📫 Contacts
+### 📫 Contacts
 
 <div align="center"> 
 
